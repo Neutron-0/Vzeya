@@ -1,0 +1,22 @@
+# Gaming core
+steam
+steam-devices
+gamemode
+mangohud
+gamescope
+protontricks
+
+# Emulation (optional)
+wine
+lutris
+
+# Extra performance/compatibility stuff
+mesa-vulkan-drivers
+mesa-dri-drivers
+vulkan-loader
+vulkan-tools
+
+# VZ extras (optional for vibe)
+discord
+obs-studio
+neofetch

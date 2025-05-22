@@ -1,0 +1,5 @@
+flatpaks:
+  - org.libretro.RetroArch
+  - com.heroicgameslauncher.hgl
+  - com.discordapp.Discord
+  - com.obsproject.Studio
