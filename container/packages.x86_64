@@ -1,4 +1,4 @@
-# Gaming core
+# --- Gaming essentials ---
 steam
 steam-devices
 gamemode
@@ -6,17 +6,17 @@ mangohud
 gamescope
 protontricks
 
-# Emulation (optional)
+# --- Emulation & wine ---
 wine
 lutris
 
-# Extra performance/compatibility stuff
+# --- Vulkan & graphics ---
 mesa-vulkan-drivers
 mesa-dri-drivers
 vulkan-loader
 vulkan-tools
 
-# VZ extras (optional for vibe)
-discord
+# --- Optional: content creator/streamer stuff ---
 obs-studio
+discord
 neofetch
