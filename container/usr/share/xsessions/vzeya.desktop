@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=VZEYA Gaming Mode
+Comment=Login directly into gaming session
+Exec=/usr/bin/gamescope-session
+Type=Application
